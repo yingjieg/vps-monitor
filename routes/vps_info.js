@@ -11,7 +11,7 @@ var options = {
     method: 'GET',
     qs: {
         "veid": 189155,
-        "api_key": "private_U0W4aRDKHGv7wZnIAwiRujKz"
+        "api_key": ""
     }
 }
 
